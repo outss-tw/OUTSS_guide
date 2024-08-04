@@ -35,9 +35,11 @@
     - [住](./ch3-5.md)
 - [關於牛津](./ch4.md)
     - [牛津分區](./ch4-1.md)
-    - [Term](./ch4-2.md)
-    - [Formal dinner](./ch4-3.md)
-    - [一些名詞解釋](./ch4-4.md)
+    - [學期劃分](./ch4-2.md)
+    - [服裝](./ch4-3.md)
+    - [Matriculation](./ch4-4.md)
+    - [Formal Dinner](./ch4-5.md)
+    - [更多名詞解釋](./ch4-6.md)
 
 ----
 
